@@ -17,6 +17,9 @@ URL to the live version of our project: [NY TIMES ARTICLE](https://rawcdn.githac
 
 This a rebuild from a Ny Times article. The page we use for reference is [NY TIMES](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0)
 
+
+<div align="center"><img src="img/nytimes.pg"></div>
+
 ### Built With
 
 * [HTML](https://github.com/ermin-cahtarevic/ny-times-article/blob/feature-branch/index.html)
